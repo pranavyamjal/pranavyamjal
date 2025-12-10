@@ -18,7 +18,7 @@ I’m a Software Engineer working with **Node.js, Express, React, Angular, Mongo
 I build REST APIs, real-time WebSocket features, POS integrations, and scalable backend systems.
 
 **Current Work:**
-- POS (Point-of-sales) sytems
+- POS (Point-of-sales) systems
 - Restaurant Captain App (Angular + WebSocket + TypeScript + MongoDB)
 - DevOps - Grafana & AWS
 - POS printing with ESC/POS  
