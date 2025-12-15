@@ -56,7 +56,6 @@ I enjoy creating clean, efficient backend systems and practical real-world appli
 
 ## 📈 GitHub Stats & Analysis
 
-# 📊 GitHub Stats:
 ![](https://github-readme-sand.vercel.app/api?username=pranavyamjal&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavyamjal&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-sand.vercel.app/api/top-langs/?username=pranavyamjal&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS,HTML,Blade)
